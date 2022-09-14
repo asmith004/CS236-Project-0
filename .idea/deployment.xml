@@ -5,7 +5,7 @@
       <paths name="schizo (b27b2d0b-9880-4969-89d8-d76e48227fa6)">
         <serverdata>
           <mappings>
-            <mapping deploy="/tmp/tmp.Ixd0Aafj7q" local="$PROJECT_DIR$" />
+            <mapping deploy="/CS236F22" local="$PROJECT_DIR$" />
           </mappings>
           <excludedPaths>
             <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />

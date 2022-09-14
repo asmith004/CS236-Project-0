@@ -6,5 +6,5 @@ CXX_FLAGS = -g   -std=gnu++14
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/users/guest/s/smitha99/tmp/tmp.Ixd0Aafj7q/. 
+CXX_INCLUDES = -I/users/guest/s/smitha99/CS236F22/. 
 
